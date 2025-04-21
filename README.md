@@ -1,2 +1,2 @@
 # c-programming-input-output-variables-
-This is a first programming of my 
+This is my first programmig.
